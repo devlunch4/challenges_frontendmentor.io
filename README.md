@@ -1,4 +1,4 @@
-# challenges_frontendmentor.io
+# Challenges_frontendmentor.io
 I have recorded my completion of challenges from frontendmentor.io.
 Please review the list of links below.
 
